@@ -16,6 +16,7 @@ import com.newewebsite.user.UserDetails;
 
 /**
  * Servlet implementation class SignupUser
+ * few more comments
  */
 public class SignupUser extends HttpServlet {
 	private static final long serialVersionUID = 1L;
